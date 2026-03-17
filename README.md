@@ -205,8 +205,8 @@ code {
 ```
 ## OUTPUT
 <img width="1909" height="1132" alt="Screenshot 2026-03-17 160105" src="https://github.com/user-attachments/assets/5a626357-25d0-4397-8873-9ae2bf4ba4c5" />
-<img width="1902" height="1029" alt="image" src="https://github.com/user-attachments/assets/d11e0d9e-c2ef-4e16-bf9a-9a619bf8e6ef" />
-<img width="1919" height="1125" alt="image" src="https://github.com/user-attachments/assets/73a65811-c770-43e6-bbb3-59cefc7e21b6" />
+<img width="1919" height="1138" alt="image" src="https://github.com/user-attachments/assets/b16bc934-7fce-4147-891b-d21498af5a03" />
+<img width="1919" height="1124" alt="image" src="https://github.com/user-attachments/assets/04feba5d-073a-4917-bc0d-516a5c65f5aa" />
 <img width="1919" height="1139" alt="image" src="https://github.com/user-attachments/assets/7c6bc9a3-33e4-4822-81c9-781d447d2a23" />
 
 ## RESULT
